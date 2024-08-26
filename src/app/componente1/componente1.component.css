@@ -1,0 +1,11 @@
+div {
+    color: blue;  
+  }
+  
+  button {
+    background-color: lightgray; 
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
